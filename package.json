@@ -1,0 +1,29 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.linkedin.com/in/erinhighbaugh/nodeJsRESTfulApi.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "nodeJs",
+    "Mongo",
+    "MongoDb"
+  ],
+  "author": "Erin Highbaugh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
